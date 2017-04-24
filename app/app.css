@@ -23,3 +23,17 @@
   content: "|";
   padding-right: 0.3em;
 }
+
+#right-side { 
+text-align: right;
+}
+
+#centered {
+	margin: auto;
+}
+
+
+input {
+	display: table;
+	margin-right: auto;
+}
